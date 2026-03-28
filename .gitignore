@@ -1,0 +1,28 @@
+# Ambientes Virtuais (Impedir o upload da pasta gigante do Python)
+venv/
+.venv/
+env/
+.env/
+
+# Ficheiros de Cache do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Ficheiros de IDEs (VS Code, PyCharm, etc.)
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Ficheiros do Sistema Operativo (Mac/Windows)
+.DS_Store
+Thumbs.db
+
+# Ficheiros de Log e Distribuição
+*.log
+build/
+dist/
+*.egg-info/
